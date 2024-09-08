@@ -4,7 +4,7 @@
   <name>hyperdog_gazebo_sim</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="nipun.dhananjaya@gmail.com">nd94</maintainer>
+  <maintainer email="nipun.dhananjaya@gmail.com">W.M. Nipun Dhananjaya Weerakkodi</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
